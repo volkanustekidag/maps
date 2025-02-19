@@ -21,5 +21,11 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app requires location access to provide location-based services even when not in use.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app requires location access to provide location-based services while the app is in use.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need your location to provide better service.</string>
 </dict>
 </plist>
