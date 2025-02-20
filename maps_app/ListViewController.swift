@@ -27,7 +27,7 @@ class ListViewController: UIViewController, UITableViewDelegate, UITableViewData
         tableView.dataSource = self
         navigationController?.navigationBar.topItem?.title = "Location List"
         navigationController?.navigationBar.topItem?.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(onClickAdd))
-        print("a")
+        print("a b c")
         getLocations()
         
     }
